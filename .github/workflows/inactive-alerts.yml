@@ -1,0 +1,49 @@
+# Put this file in your repository at:  .github/workflows/inactive-alerts.yml
+# It runs ika_inactive_alerts.py on GitHub's servers every 15 minutes.
+# Needs a repository secret named DISCORD_WEBHOOK_URL holding your webhook URL.
+
+name: Inactive alerts
+
+on:
+  schedule:
+    - cron: "7,22,37,52 * * * *"   # every 15 min, avoiding the busy top of the hour
+  workflow_dispatch:                # adds a "Run workflow" button on the Actions tab
+    inputs:
+      test:
+        description: "Only send a test alert"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write                   # lets the job save its list of seen players
+
+concurrency:
+  group: inactive-alerts            # never run two checks at once
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}   # newest commit, so the saved list is never stale
+
+      - name: Check IkaTracker for new inactives
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python3 ika_inactive_alerts.py ${{ inputs.test && '--test' || '--once' }}
+
+      - name: Save list of seen players
+        if: ${{ !cancelled() && !inputs.test }}
+        run: |
+          if [ -n "$(git status --porcelain -- 'inactive_state_*.json')" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+            git add -- 'inactive_state_*.json'
+            git commit -m "Update inactive list"
+            git pull --rebase --quiet
+            git push
+          else
+            echo "Nothing new to save."
+          fi
