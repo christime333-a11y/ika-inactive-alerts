@@ -6,7 +6,7 @@ status  bytes  type  file  url
 200   6594981 text/html; charset=utf-8            alliance_viet.html                         https://ikatracker.com/atlas/search?type=alliance&server=s63-us&q=VIET
 200    296910 text/html; charset=utf-8            player_sample.html                         https://ikatracker.com/atlas/search?player_id=185618
 200    385873 text/html; charset=utf-8            islands_s63.html                           https://ikatracker.com/islands?server=s63-us
-200    591104 text/html; charset=utf-8            servers.html                               https://ikatracker.com/servers
-200     21196 application/javascript; charset=UTF script_01_main.js                          https://ikatracker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
+200    590861 text/html; charset=utf-8            servers.html                               https://ikatracker.com/servers
+200     20679 application/javascript; charset=UTF script_01_main.js                          https://ikatracker.com/cdn-cgi/challenge-platform/scripts/jsd/main.js
 200    109262 text/html; charset=utf-8            island_403333.html                         https://ikatracker.com/islands/403333
 200    165094 text/html; charset=utf-8            island_403343.html                         https://ikatracker.com/islands/403343
