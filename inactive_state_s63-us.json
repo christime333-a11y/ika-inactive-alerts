@@ -1,0 +1,900 @@
+{
+ "players": {
+  "10184159": {
+   "first_seen": 1790849570,
+   "name": "Ryan",
+   "score": 648037
+  },
+  "10712741": {
+   "first_seen": 1790849570,
+   "name": "Ayiee-Inc",
+   "score": 778564
+  },
+  "1149818": {
+   "first_seen": 1790849570,
+   "name": "Vm2",
+   "score": 8940
+  },
+  "1154860": {
+   "first_seen": 1790849570,
+   "name": "Totoy Brown",
+   "score": 8511
+  },
+  "1154862": {
+   "first_seen": 1790849570,
+   "name": "IPMAN-4",
+   "score": 17152
+  },
+  "185041": {
+   "first_seen": 1790849570,
+   "name": "Tolkin420",
+   "score": 74124
+  },
+  "185090": {
+   "first_seen": 1790849570,
+   "name": "Dude",
+   "score": 55824724
+  },
+  "185234": {
+   "first_seen": 1790849570,
+   "name": "Anduril",
+   "score": 711517
+  },
+  "185263": {
+   "first_seen": 1790849570,
+   "name": "possessed",
+   "score": 67663062
+  },
+  "185335": {
+   "first_seen": 1790849570,
+   "name": "Eins",
+   "score": 6730
+  },
+  "185340": {
+   "first_seen": 1790849570,
+   "name": "izar921",
+   "score": 255660
+  },
+  "185353": {
+   "first_seen": 1790849570,
+   "name": "Drei",
+   "score": 4321
+  },
+  "185354": {
+   "first_seen": 1790849570,
+   "name": "Sechs",
+   "score": 3938
+  },
+  "185413": {
+   "first_seen": 1790849570,
+   "name": "Hegemon-6451831",
+   "score": 60
+  },
+  "185419": {
+   "first_seen": 1790849570,
+   "name": "Number 3",
+   "score": 19254
+  },
+  "185434": {
+   "first_seen": 1790849570,
+   "name": "Lesley",
+   "score": 2297
+  },
+  "185435": {
+   "first_seen": 1790849570,
+   "name": "Granger",
+   "score": 904
+  },
+  "185437": {
+   "first_seen": 1790849570,
+   "name": "Mirana",
+   "score": 3095
+  },
+  "185445": {
+   "first_seen": 1790849570,
+   "name": "Bangag",
+   "score": 29140
+  },
+  "185446": {
+   "first_seen": 1790849570,
+   "name": "Traxex",
+   "score": 1074
+  },
+  "185447": {
+   "first_seen": 1790849570,
+   "name": "Layla",
+   "score": 1416
+  },
+  "185464": {
+   "first_seen": 1790849570,
+   "name": "chz",
+   "score": 58363
+  },
+  "185554": {
+   "first_seen": 1790849570,
+   "name": "Romeo Diaz",
+   "score": 94607
+  },
+  "185574": {
+   "first_seen": 1790849570,
+   "name": "Tigressa",
+   "score": 550819
+  },
+  "185609": {
+   "first_seen": 1790849570,
+   "name": "Eyce",
+   "score": 16632521
+  },
+  "185618": {
+   "first_seen": 1790849570,
+   "name": "Moore",
+   "score": 528924
+  },
+  "185636": {
+   "first_seen": 1790849570,
+   "name": "xl3q",
+   "score": 4120009
+  },
+  "185653": {
+   "first_seen": 1790849570,
+   "name": "Gin Diaz",
+   "score": 22849595
+  },
+  "185767": {
+   "first_seen": 1790849570,
+   "name": "Poseidonoo",
+   "score": 165891
+  },
+  "185779": {
+   "first_seen": 1790849570,
+   "name": "Tris2002",
+   "score": 5335682
+  },
+  "185786": {
+   "first_seen": 1790849570,
+   "name": "Zwei",
+   "score": 4482
+  },
+  "185787": {
+   "first_seen": 1790849570,
+   "name": "Vier",
+   "score": 3128
+  },
+  "185788": {
+   "first_seen": 1790849570,
+   "name": "Fuenf",
+   "score": 3139
+  },
+  "185826": {
+   "first_seen": 1790849570,
+   "name": "Stafylia",
+   "score": 18727540
+  },
+  "185830": {
+   "first_seen": 1790849570,
+   "name": "Allah",
+   "score": 127255
+  },
+  "185831": {
+   "first_seen": 1790849570,
+   "name": "Philomena",
+   "score": 118387
+  },
+  "185832": {
+   "first_seen": 1790849570,
+   "name": "Bobcorn",
+   "score": 109859
+  },
+  "185833": {
+   "first_seen": 1790849570,
+   "name": "Hrafnkell",
+   "score": 113248
+  },
+  "185834": {
+   "first_seen": 1790849570,
+   "name": "Unicorn",
+   "score": 90445
+  },
+  "185835": {
+   "first_seen": 1790849570,
+   "name": "Nouhaila",
+   "score": 101676
+  },
+  "185836": {
+   "first_seen": 1790849570,
+   "name": "knznsmn",
+   "score": 97654
+  },
+  "185837": {
+   "first_seen": 1790849570,
+   "name": "Apostate",
+   "score": 106972
+  },
+  "185838": {
+   "first_seen": 1790849570,
+   "name": "Al Zutt",
+   "score": 106318
+  },
+  "185846": {
+   "first_seen": 1790849570,
+   "name": "Donate-86AFK",
+   "score": 39574
+  },
+  "185870": {
+   "first_seen": 1790849570,
+   "name": "Aphroditi",
+   "score": 5566
+  },
+  "185967": {
+   "first_seen": 1790849570,
+   "name": "katerina494",
+   "score": 5802
+  },
+  "185968": {
+   "first_seen": 1790849570,
+   "name": "anastasia3499",
+   "score": 5821
+  },
+  "186003": {
+   "first_seen": 1790849570,
+   "name": "osrsandchill",
+   "score": 8400922
+  },
+  "186050": {
+   "first_seen": 1790849570,
+   "name": "SSJ Goku556",
+   "score": 11157980
+  },
+  "186086": {
+   "first_seen": 1790849570,
+   "name": "Mia Khalifa",
+   "score": 2899254
+  },
+  "186104": {
+   "first_seen": 1790849570,
+   "name": "lokaki",
+   "score": 714
+  },
+  "186136": {
+   "first_seen": 1790849570,
+   "name": "Ach897",
+   "score": 1975
+  },
+  "186137": {
+   "first_seen": 1790849570,
+   "name": "donis",
+   "score": 3492
+  },
+  "186208": {
+   "first_seen": 1790849570,
+   "name": "rapidsIayer1",
+   "score": 25801538
+  },
+  "186233": {
+   "first_seen": 1790849570,
+   "name": "Uzumaki",
+   "score": 2141064
+  },
+  "186236": {
+   "first_seen": 1790849570,
+   "name": "LARA",
+   "score": 1855451
+  },
+  "186237": {
+   "first_seen": 1790849570,
+   "name": "TUBARAO",
+   "score": 1686553
+  },
+  "186238": {
+   "first_seen": 1790849570,
+   "name": "FLAFLA",
+   "score": 2864058
+  },
+  "186239": {
+   "first_seen": 1790849570,
+   "name": "Aposentada36",
+   "score": 507161
+  },
+  "186245": {
+   "first_seen": 1790849570,
+   "name": "NORMAL",
+   "score": 1065299
+  },
+  "186246": {
+   "first_seen": 1790849570,
+   "name": "I I I R I I I",
+   "score": 1009405
+  },
+  "186255": {
+   "first_seen": 1790849570,
+   "name": "DIABL02749",
+   "score": 170164
+  },
+  "186299": {
+   "first_seen": 1790849570,
+   "name": "cungcanthi",
+   "score": 79122306
+  },
+  "186313": {
+   "first_seen": 1790849570,
+   "name": "Sheraton",
+   "score": 3833
+  },
+  "186314": {
+   "first_seen": 1790849570,
+   "name": "Hungvuong Plaza",
+   "score": 5351
+  },
+  "186315": {
+   "first_seen": 1790849570,
+   "name": "KOI",
+   "score": 15068
+  },
+  "186316": {
+   "first_seen": 1790849570,
+   "name": "Lego",
+   "score": 18976
+  },
+  "186319": {
+   "first_seen": 1790849570,
+   "name": "Number275",
+   "score": 16037
+  },
+  "186320": {
+   "first_seen": 1790849570,
+   "name": "Number1",
+   "score": 105466
+  },
+  "186323": {
+   "first_seen": 1790849570,
+   "name": "Kobe",
+   "score": 13795272
+  },
+  "186326": {
+   "first_seen": 1790849570,
+   "name": "Number4",
+   "score": 7587
+  },
+  "186336": {
+   "first_seen": 1790849570,
+   "name": "Eaglee",
+   "score": 19958
+  },
+  "186355": {
+   "first_seen": 1790849570,
+   "name": "Manly",
+   "score": 8665
+  },
+  "186356": {
+   "first_seen": 1790849570,
+   "name": "Mr Bean",
+   "score": 8151
+  },
+  "186480": {
+   "first_seen": 1790849570,
+   "name": "Escudero",
+   "score": 8612937
+  },
+  "186482": {
+   "first_seen": 1790849570,
+   "name": "AZI MUWA",
+   "score": 6618463
+  },
+  "186561": {
+   "first_seen": 1790849570,
+   "name": "ChauTinhTri12-",
+   "score": 478311
+  },
+  "186575": {
+   "first_seen": 1790849570,
+   "name": "Hihi_9-1",
+   "score": 37975
+  },
+  "186648": {
+   "first_seen": 1790849570,
+   "name": "Danger Mouse",
+   "score": 12498
+  },
+  "186815": {
+   "first_seen": 1790849570,
+   "name": "Trai4-",
+   "score": 774
+  },
+  "186888": {
+   "first_seen": 1790849570,
+   "name": "Had7-",
+   "score": 22093
+  },
+  "186908": {
+   "first_seen": 1790849570,
+   "name": "Royal",
+   "score": 1196720
+  },
+  "186976": {
+   "first_seen": 1790849570,
+   "name": "Dudkin-Hrun",
+   "score": 17683420
+  },
+  "186987": {
+   "first_seen": 1790849570,
+   "name": "rapidsIayer",
+   "score": 43995015
+  },
+  "186988": {
+   "first_seen": 1790849570,
+   "name": "Red Assassin",
+   "score": 33000060
+  },
+  "187038": {
+   "first_seen": 1790849570,
+   "name": "Socomseal45",
+   "score": 14347464
+  },
+  "187123": {
+   "first_seen": 1790849570,
+   "name": "Isuzuy_6-",
+   "score": 5810
+  },
+  "187134": {
+   "first_seen": 1790849570,
+   "name": "Miuko5-0",
+   "score": 2813
+  },
+  "187135": {
+   "first_seen": 1790849570,
+   "name": "An_7",
+   "score": 9928
+  },
+  "187162": {
+   "first_seen": 1790849570,
+   "name": "Stela",
+   "score": 6876366
+  },
+  "187207": {
+   "first_seen": 1790849570,
+   "name": "Karaköy",
+   "score": 7079327
+  },
+  "187208": {
+   "first_seen": 1790849570,
+   "name": "LOTTOMM",
+   "score": 14283158
+  },
+  "187290": {
+   "first_seen": 1790849570,
+   "name": "Asif",
+   "score": 176395
+  },
+  "187341": {
+   "first_seen": 1790849570,
+   "name": "Ravnica",
+   "score": 28639866
+  },
+  "187414": {
+   "first_seen": 1790849570,
+   "name": "By31a 6v",
+   "score": 220505
+  },
+  "187460": {
+   "first_seen": 1790849570,
+   "name": "Con Heo",
+   "score": 1269886
+  },
+  "187461": {
+   "first_seen": 1790849570,
+   "name": "Con Bo",
+   "score": 1270499
+  },
+  "187695": {
+   "first_seen": 1790849570,
+   "name": "Achilles-8912",
+   "score": 180
+  },
+  "187702": {
+   "first_seen": 1790849570,
+   "name": "-VendON-",
+   "score": 15522
+  },
+  "19493979": {
+   "first_seen": 1790849570,
+   "name": "GM 405",
+   "score": 7114
+  },
+  "197916": {
+   "first_seen": 1790849570,
+   "name": "O-Y-K-A-S",
+   "score": 3009903
+  },
+  "20019881": {
+   "first_seen": 1790849570,
+   "name": "Jeremy",
+   "score": 18340
+  },
+  "20022360": {
+   "first_seen": 1790849570,
+   "name": "USJ-R",
+   "score": 5657
+  },
+  "21060825": {
+   "first_seen": 1790849570,
+   "name": "Shark NPC 8",
+   "score": 8110
+  },
+  "219907": {
+   "first_seen": 1790849570,
+   "name": "Atlas-0231 d",
+   "score": 3384
+  },
+  "231819": {
+   "first_seen": 1790849570,
+   "name": "Reformed",
+   "score": 15465
+  },
+  "234457": {
+   "first_seen": 1790849570,
+   "name": "Yngwie",
+   "score": 586232
+  },
+  "234458": {
+   "first_seen": 1790849570,
+   "name": "Homer",
+   "score": 532623
+  },
+  "234483": {
+   "first_seen": 1790849570,
+   "name": "DJTrump",
+   "score": 71158
+  },
+  "24212614": {
+   "first_seen": 1790849570,
+   "name": "MPacman",
+   "score": 2871
+  },
+  "25237667": {
+   "first_seen": 1790849570,
+   "name": "mofidi",
+   "score": 3436201
+  },
+  "25247795": {
+   "first_seen": 1790849570,
+   "name": "Riley Steele",
+   "score": 1884053
+  },
+  "25769586": {
+   "first_seen": 1790849570,
+   "name": "P1 Dix xx",
+   "score": 7702
+  },
+  "26257596": {
+   "first_seen": 1790849570,
+   "name": "OnePiece",
+   "score": 450285
+  },
+  "28860913": {
+   "first_seen": 1790849570,
+   "name": "Steam 17",
+   "score": 141896
+  },
+  "33573352": {
+   "first_seen": 1790849570,
+   "name": "Decimaeus",
+   "score": 132046
+  },
+  "36192240": {
+   "first_seen": 1790849570,
+   "name": "Panda6415",
+   "score": 1625362
+  },
+  "37713699": {
+   "first_seen": 1790849570,
+   "name": "Pauopolis",
+   "score": 608
+  },
+  "37732802": {
+   "first_seen": 1790849570,
+   "name": "ΑΜΥΝΤΙΚΟΣ",
+   "score": 170
+  },
+  "38245404": {
+   "first_seen": 1790849570,
+   "name": "Meshnard",
+   "score": 2772658
+  },
+  "40306813": {
+   "first_seen": 1790849570,
+   "name": "Anaconda475",
+   "score": 1846016
+  },
+  "41347762": {
+   "first_seen": 1790849570,
+   "name": "VUA DONATOR962",
+   "score": 5976
+  },
+  "4176304": {
+   "first_seen": 1790849570,
+   "name": "Tornado",
+   "score": 1903372
+  },
+  "4176305": {
+   "first_seen": 1790849570,
+   "name": "Mason",
+   "score": 591846
+  },
+  "43456781": {
+   "first_seen": 1790849570,
+   "name": "BoyBawang",
+   "score": 56766
+  },
+  "43459006": {
+   "first_seen": 1790849570,
+   "name": "Dyanaypa",
+   "score": 56372
+  },
+  "44009772": {
+   "first_seen": 1790849570,
+   "name": "QN1210916",
+   "score": 23427
+  },
+  "44009773": {
+   "first_seen": 1790849570,
+   "name": "QN1210915",
+   "score": 15799
+  },
+  "44009774": {
+   "first_seen": 1790849570,
+   "name": "QN1210914",
+   "score": 20632
+  },
+  "45032111": {
+   "first_seen": 1790849570,
+   "name": "Steve24",
+   "score": 782002
+  },
+  "45038955": {
+   "first_seen": 1790849570,
+   "name": "Speedy7255",
+   "score": 674143
+  },
+  "45038956": {
+   "first_seen": 1790849570,
+   "name": "KATEY",
+   "score": 990329
+  },
+  "45577638": {
+   "first_seen": 1790849570,
+   "name": "Pollux-9914",
+   "score": 292
+  },
+  "46089320": {
+   "first_seen": 1790849570,
+   "name": "TZOULIAN5337928",
+   "score": 1902287
+  },
+  "47121633": {
+   "first_seen": 1790849570,
+   "name": "Mathe",
+   "score": 832987
+  },
+  "47131791": {
+   "first_seen": 1790849570,
+   "name": "UNBK2b",
+   "score": 8923
+  },
+  "47638689": {
+   "first_seen": 1790849570,
+   "name": "fabrica 750k",
+   "score": 750447
+  },
+  "47650384": {
+   "first_seen": 1790849570,
+   "name": "Taka",
+   "score": 7805607
+  },
+  "48706500": {
+   "first_seen": 1790849570,
+   "name": "oro 550mill",
+   "score": 5519871
+  },
+  "50310899": {
+   "first_seen": 1790849570,
+   "name": "New Ac 11",
+   "score": 877
+  },
+  "50782461": {
+   "first_seen": 1790849570,
+   "name": "ORTAS837",
+   "score": 6471845
+  },
+  "51343189": {
+   "first_seen": 1790849570,
+   "name": "By6s 60m",
+   "score": 2924
+  },
+  "52332754": {
+   "first_seen": 1790849570,
+   "name": "Lady Vashj",
+   "score": 26198
+  },
+  "53351711": {
+   "first_seen": 1790849570,
+   "name": "anod192",
+   "score": 11533
+  },
+  "53873202": {
+   "first_seen": 1790849570,
+   "name": "PATATAS2618",
+   "score": 58633
+  },
+  "54409176": {
+   "first_seen": 1790849570,
+   "name": "Heritage",
+   "score": 20561019
+  },
+  "54938448": {
+   "first_seen": 1790849570,
+   "name": "shello247",
+   "score": 41148
+  },
+  "54952305": {
+   "first_seen": 1790849570,
+   "name": "QN121091",
+   "score": 55460
+  },
+  "54952306": {
+   "first_seen": 1790849570,
+   "name": "QN1210912",
+   "score": 45084
+  },
+  "54952307": {
+   "first_seen": 1790849570,
+   "name": "QN1210913",
+   "score": 50767
+  },
+  "55487862": {
+   "first_seen": 1790849570,
+   "name": "GoldDiggerSmall",
+   "score": 23186
+  },
+  "56009073": {
+   "first_seen": 1790849570,
+   "name": "KAMOTE",
+   "score": 219313
+  },
+  "56529529": {
+   "first_seen": 1790849570,
+   "name": "Eddy 93m",
+   "score": 24928
+  },
+  "57035640": {
+   "first_seen": 1790849570,
+   "name": "NineTy94",
+   "score": 2257763
+  },
+  "57035852": {
+   "first_seen": 1790849570,
+   "name": "Black Hole",
+   "score": 1825215
+  },
+  "57037243": {
+   "first_seen": 1790849570,
+   "name": "Hijo Prodigo997",
+   "score": 504692
+  },
+  "57566804": {
+   "first_seen": 1790849570,
+   "name": "Stavento",
+   "score": 3349164
+  },
+  "58600502": {
+   "first_seen": 1790849570,
+   "name": "Arreedr85",
+   "score": 7441
+  },
+  "58600776": {
+   "first_seen": 1790849570,
+   "name": "Hegemon-7664",
+   "score": 114
+  },
+  "58618127": {
+   "first_seen": 1790849570,
+   "name": "Kayden Kross",
+   "score": 2553767
+  },
+  "59128114": {
+   "first_seen": 1790849570,
+   "name": "DianaZubiri7970",
+   "score": 1286
+  },
+  "59653512": {
+   "first_seen": 1790849570,
+   "name": "Tzon677",
+   "score": 4209885
+  },
+  "59674731": {
+   "first_seen": 1790849570,
+   "name": "GoldDigger2",
+   "score": 4705130
+  },
+  "6064425": {
+   "first_seen": 1790849570,
+   "name": "Sugar Daddy",
+   "score": 36664
+  },
+  "6064427": {
+   "first_seen": 1790849570,
+   "name": "Du30",
+   "score": 334383
+  },
+  "6064436": {
+   "first_seen": 1790849570,
+   "name": "Boss Erwin",
+   "score": 177183
+  },
+  "60735588": {
+   "first_seen": 1790849570,
+   "name": "0913p37b",
+   "score": 3002
+  },
+  "60735767": {
+   "first_seen": 1790849570,
+   "name": "0913p37a",
+   "score": 9225
+  },
+  "61234122": {
+   "first_seen": 1790849570,
+   "name": "2million",
+   "score": 2616931
+  },
+  "62858304": {
+   "first_seen": 1790849570,
+   "name": "Art3mis",
+   "score": 324579
+  },
+  "64428359": {
+   "first_seen": 1790849570,
+   "name": "sir_reed",
+   "score": 6345
+  },
+  "67131466": {
+   "first_seen": 1790849570,
+   "name": "Hegemon-4798",
+   "score": 22801
+  },
+  "67131467": {
+   "first_seen": 1790849570,
+   "name": "Adonis-2840",
+   "score": 19293
+  },
+  "67627186": {
+   "first_seen": 1790849570,
+   "name": "Double_A",
+   "score": 291
+  },
+  "677449": {
+   "first_seen": 1790849570,
+   "name": "JP Morgan",
+   "score": 2243697
+  },
+  "680869": {
+   "first_seen": 1790849570,
+   "name": "WarrenBuffet",
+   "score": 1871731
+  },
+  "69785418": {
+   "first_seen": 1790849570,
+   "name": "firstking",
+   "score": 200
+  },
+  "7106487": {
+   "first_seen": 1790849570,
+   "name": "Solid445",
+   "score": 27782
+  },
+  "7114590": {
+   "first_seen": 1790849570,
+   "name": "By11s 6C",
+   "score": 78637
+  }
+ },
+ "seeded": true
+}
