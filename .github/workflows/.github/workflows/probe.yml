@@ -1,0 +1,141 @@
+# One-time helper. Put this file in your repository at: .github/workflows/probe.yml
+# It saves raw copies of the IkaTracker pages behind the VIET map into a "probe"
+# folder, so the VIET alert script can be built against the real data.
+# Run it once from the Actions tab; you can delete it afterwards.
+
+name: IkaTracker probe
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Save raw IkaTracker pages
+        run: |
+          python3 - <<'PY'
+          import http.cookiejar, os, re, time, urllib.error, urllib.request
+          from urllib.parse import urljoin, urlparse
+
+          BASE = "https://ikatracker.com"
+          OUT = "probe"
+          MAX_REQUESTS = 45
+          os.makedirs(OUT, exist_ok=True)
+          opener = urllib.request.build_opener(
+              urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+          UA = "Mozilla/5.0 (compatible; IkaInactiveAlerts/1.0; one-off probe)"
+          done, log, texts = set(), [], {}
+
+          def get(url, name, json_ok=False):
+              if url in done or len(done) >= MAX_REQUESTS:
+                  return None
+              done.add(url)
+              time.sleep(1)
+              headers = {"User-Agent": UA, "Accept-Language": "en-US,en;q=0.8",
+                         "Accept": "application/json, text/plain, */*" if json_ok
+                                   else "text/html,application/xhtml+xml,*/*;q=0.8"}
+              if json_ok:
+                  headers["X-Requested-With"] = "XMLHttpRequest"
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  with opener.open(req, timeout=60) as r:
+                      body, status, ctype = r.read(), r.status, r.headers.get("Content-Type", "")
+              except urllib.error.HTTPError as e:
+                  body, status, ctype = e.read(), e.code, e.headers.get("Content-Type", "")
+              except Exception as e:
+                  log.append(f"ERROR {url} {e}")
+                  return None
+              with open(os.path.join(OUT, name), "wb") as f:
+                  f.write(body[:15_000_000])
+              log.append(f"{status} {len(body):>9} {ctype[:35]:35} {name:42} {url}")
+              texts[name] = body.decode("utf-8", "replace")
+              return texts[name]
+
+          def find_scripts(text, base_url):
+              found = re.findall(r"""(?:src|href)\s*=\s*["']([^"']+?\.m?js(?:\?[^"']*)?)["']""", text, re.I)
+              found += re.findall(r"""["'](\.{0,2}/[^"'\s]+?\.m?js)["']""", text)
+              urls = [urljoin(base_url, u) for u in found]
+              return [u for u in urls if urlparse(u).netloc.endswith("ikatracker.com")]
+
+          pages = [
+              ("map_viet.html", BASE + "/map?server=s63-us&area=&player=&free_slots=&alliances%5B%5D=VIET"),
+              ("map_plain.html", BASE + "/map?server=s63-us"),
+              ("alliance_viet.html", BASE + "/atlas/search?type=alliance&server=s63-us&q=VIET"),
+              ("player_sample.html", BASE + "/atlas/search?player_id=185618"),
+              ("islands_s63.html", BASE + "/islands?server=s63-us"),
+              ("servers.html", BASE + "/servers"),
+          ]
+          queue = []
+          for name, url in pages:
+              text = get(url, name)
+              if text:
+                  queue += find_scripts(text, url)
+
+          # The scripts those pages load (and the chunks those scripts import).
+          fetched_scripts = []
+          while queue and len(fetched_scripts) < 20:
+              url = queue.pop(0)
+              if url in fetched_scripts:
+                  continue
+              fetched_scripts.append(url)
+              short = re.sub(r"[^A-Za-z0-9._-]", "_", urlparse(url).path.rsplit("/", 1)[-1])[:60]
+              text = get(url, "script_%02d_%s" % (len(fetched_scripts), short))
+              if text:
+                  queue += find_scripts(text, url)
+
+          # Paths in the pages/scripts that look like data endpoints.
+          paths = set()
+          for text in list(texts.values()):
+              paths.update(re.findall(
+                  r"""["'`]((?:https://ikatracker\.com)?/[A-Za-z0-9_\-./]*"""
+                  r"""(?:api|data|json|islands|cities|players|alliances|map|search)[A-Za-z0-9_\-./]*)""", text))
+          with open(os.path.join(OUT, "endpoints.txt"), "w") as f:
+              f.write("\n".join(sorted(paths)) + "\n")
+          risky = ("delete", "destroy", "admin", "login", "logout", "password",
+                   "lang", "store", "update", "scrape", "upload")
+          tries = [p for p in sorted(paths)
+                   if any(k in p.lower() for k in ("api", "data", ".json"))
+                   and not any(r in p.lower() for r in risky)]
+          for n, path in enumerate(tries[:10]):
+              url = urljoin(BASE + "/", path.rstrip("/"))
+              if "?" not in url:
+                  url += "?server=s63-us&alliances%5B%5D=VIET"
+              get(url, "endpoint_%02d.txt" % n, json_ok=True)
+
+          # Two island pages that the map data points to.
+          ids = []
+          for name, text in texts.items():
+              if name.startswith(("map_", "endpoint_")):
+                  for island_id in re.findall(r"/islands/(\d+)", text):
+                      if island_id not in ids:
+                          ids.append(island_id)
+          for island_id in ids[:2]:
+              get(f"{BASE}/islands/{island_id}", f"island_{island_id}.html")
+
+          with open(os.path.join(OUT, "README.txt"), "w") as f:
+              f.write("Raw IkaTracker pages saved by the one-off probe workflow.\n"
+                      "status  bytes  type  file  url\n\n" + "\n".join(log) + "\n")
+          print("\n".join(log))
+          PY
+
+      - name: Commit the saved pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898283+github-actions[bot]@users.noreply.github.com"
+          git add probe
+          if git diff --staged --quiet; then
+            echo "Nothing was saved."
+          else
+            git commit -m "Save IkaTracker probe pages"
+            git pull --rebase --quiet
+            git push
+          fi
