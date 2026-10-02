@@ -480,6 +480,7 @@
   },
   "186988": {
    "first_seen": 1790849570,
+   "missing_since": 1790940729,
    "name": "Red Assassin",
    "score": 33000060
   },
@@ -513,21 +514,25 @@
   },
   "187185": {
    "first_seen": 1790873897,
+   "missing_since": 1790940729,
    "name": "VIE Mot",
    "score": 160148
   },
   "187186": {
    "first_seen": 1790873897,
+   "missing_since": 1790940729,
    "name": "VIE Hai",
    "score": 149098
   },
   "187187": {
    "first_seen": 1790873897,
+   "missing_since": 1790940729,
    "name": "VIE Ba",
    "score": 165671
   },
   "187188": {
    "first_seen": 1790873897,
+   "missing_since": 1790940729,
    "name": "VIE Bon",
    "score": 150047
   },
@@ -758,6 +763,11 @@
    "first_seen": 1790849570,
    "name": "Pollux-9914",
    "score": 292
+  },
+  "45578224": {
+   "first_seen": 1790940729,
+   "name": "gop61 US",
+   "score": 47648
   },
   "46089320": {
    "first_seen": 1790849570,
