@@ -17,6 +17,7 @@
   },
   "1154860": {
    "first_seen": 1790849570,
+   "missing_since": 1790939901,
    "name": "Totoy Brown",
    "score": 8511
   },
@@ -288,6 +289,7 @@
   },
   "186208": {
    "first_seen": 1790849570,
+   "missing_since": 1790939901,
    "name": "rapidsIayer1",
    "score": 25801538
   },
@@ -299,6 +301,7 @@
   },
   "186236": {
    "first_seen": 1790849570,
+   "missing_since": 1790939901,
    "name": "LARA",
    "score": 1855451
   },
@@ -310,6 +313,7 @@
   },
   "186238": {
    "first_seen": 1790849570,
+   "missing_since": 1790939901,
    "name": "FLAFLA",
    "score": 2864058
   },
@@ -428,8 +432,14 @@
   },
   "186706": {
    "first_seen": 1790873216,
+   "missing_since": 1790939901,
    "name": "Bacon",
    "score": 2440560
+  },
+  "186814": {
+   "first_seen": 1790939901,
+   "name": "lu1",
+   "score": 6533
   },
   "186815": {
    "first_seen": 1790849570,
@@ -594,6 +604,7 @@
   },
   "21060825": {
    "first_seen": 1790849570,
+   "missing_since": 1790939901,
    "name": "Shark NPC 8",
    "score": 8110
   },
