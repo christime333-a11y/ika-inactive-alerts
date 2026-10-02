@@ -51,6 +51,16 @@
    "name": "possessed",
    "score": 67663062
   },
+  "185306": {
+   "first_seen": 1790938050,
+   "name": "apophis",
+   "score": 379629
+  },
+  "185312": {
+   "first_seen": 1790938050,
+   "name": "Alejandro Magno",
+   "score": 629421
+  },
   "185335": {
    "first_seen": 1790849570,
    "name": "Eins",
@@ -133,6 +143,7 @@
   },
   "185618": {
    "first_seen": 1790849570,
+   "missing_since": 1790938050,
    "name": "Moore",
    "score": 528924
   },
@@ -925,7 +936,6 @@
   },
   "64421722": {
    "first_seen": 1790875105,
-   "missing_since": 1790937158,
    "name": "Midlane Riven",
    "score": 7801641
   },
