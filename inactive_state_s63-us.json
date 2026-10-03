@@ -2,6 +2,7 @@
  "players": {
   "10184159": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Ryan",
    "score": 648037
   },
@@ -249,6 +250,11 @@
    "name": "Donate-86AFK",
    "score": 39574
   },
+  "185864": {
+   "first_seen": 1791010792,
+   "name": "VoLCaNo",
+   "score": 3490678
+  },
   "185870": {
    "first_seen": 1790849570,
    "missing_since": 1790872391,
@@ -309,6 +315,11 @@
    "name": "Uzumaki",
    "score": 2141064
   },
+  "186235": {
+   "first_seen": 1791010792,
+   "name": "LUTHOR",
+   "score": 4645953
+  },
   "186236": {
    "first_seen": 1790849570,
    "missing_since": 1790939901,
@@ -355,21 +366,25 @@
   },
   "186313": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Sheraton",
    "score": 3833
   },
   "186314": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Hungvuong Plaza",
    "score": 5351
   },
   "186315": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "KOI",
    "score": 15068
   },
   "186316": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Lego",
    "score": 18976
   },
@@ -395,23 +410,36 @@
   },
   "186336": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Eaglee",
    "score": 19958
   },
   "186355": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Manly",
    "score": 8665
   },
   "186356": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "Mr Bean",
    "score": 8151
+  },
+  "186369": {
+   "first_seen": 1791010792,
+   "name": "Prophet",
+   "score": 5484403
   },
   "186398": {
    "first_seen": 1790872391,
    "name": "Paladin96",
    "score": 124901
+  },
+  "186445": {
+   "first_seen": 1791010792,
+   "name": "ΚΕΡΒΕΡΟΣ",
+   "score": 5567608
   },
   "186480": {
    "first_seen": 1790849570,
@@ -446,6 +474,11 @@
    "name": "Bacon",
    "score": 2440560
   },
+  "186707": {
+   "first_seen": 1791010792,
+   "name": "Trusted Mentor",
+   "score": 1772124
+  },
   "186814": {
    "first_seen": 1790939901,
    "name": "lu1",
@@ -477,6 +510,11 @@
    "first_seen": 1790849570,
    "name": "Royal",
    "score": 1196720
+  },
+  "186938": {
+   "first_seen": 1791010792,
+   "name": "TheseusDon1B_A",
+   "score": 973817
   },
   "186976": {
    "first_seen": 1790849570,
@@ -676,8 +714,14 @@
   },
   "26257596": {
    "first_seen": 1790849570,
+   "missing_since": 1791010792,
    "name": "OnePiece",
    "score": 450285
+  },
+  "26264107": {
+   "first_seen": 1791010792,
+   "name": "Charles-TH",
+   "score": 28801
   },
   "28860913": {
    "first_seen": 1790849570,
@@ -979,6 +1023,11 @@
    "first_seen": 1790849570,
    "name": "2million",
    "score": 2616931
+  },
+  "62312657": {
+   "first_seen": 1791010792,
+   "name": "Atilio",
+   "score": 1366
   },
   "62858304": {
    "first_seen": 1790849570,
