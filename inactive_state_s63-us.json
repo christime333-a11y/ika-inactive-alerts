@@ -70,6 +70,7 @@
   },
   "185176": {
    "first_seen": 1791216035,
+   "missing_since": 1791286369,
    "name": "BAAL",
    "score": 6321153
   },
@@ -596,16 +597,19 @@
   },
   "186826": {
    "first_seen": 1791217216,
+   "missing_since": 1791286369,
    "name": "MasterChief 117",
    "score": 13614274
   },
   "186828": {
    "first_seen": 1791148340,
+   "missing_since": 1791286369,
    "name": "Lunar",
    "score": 10012008
   },
   "186856": {
    "first_seen": 1791148340,
+   "missing_since": 1791286369,
    "name": "-Lunar-01",
    "score": 54681
   },
@@ -623,6 +627,7 @@
   },
   "186907": {
    "first_seen": 1791217216,
+   "missing_since": 1791286369,
    "name": "TestGame",
    "score": 6773936
   },
@@ -635,6 +640,11 @@
    "first_seen": 1791010792,
    "name": "TheseusDon1B_A",
    "score": 973817
+  },
+  "186950": {
+   "first_seen": 1791286369,
+   "name": "bubba69",
+   "score": 19307436
   },
   "186976": {
    "first_seen": 1790849570,
@@ -653,11 +663,13 @@
   },
   "187152": {
    "first_seen": 1791217216,
+   "missing_since": 1791286369,
    "name": "Dulipo",
    "score": 3198799
   },
   "187155": {
    "first_seen": 1791217216,
+   "missing_since": 1791286369,
    "name": "Longhorn",
    "score": 239667
   },
@@ -736,6 +748,7 @@
   },
   "219907": {
    "first_seen": 1790849570,
+   "missing_since": 1791286369,
    "name": "Atlas-0231 d",
    "score": 3384
   },
@@ -842,6 +855,11 @@
    "first_seen": 1790849570,
    "name": "Mason",
    "score": 591846
+  },
+  "41873510": {
+   "first_seen": 1791286369,
+   "name": "KitKat425",
+   "score": 4464
   },
   "41874578": {
    "first_seen": 1791283831,
@@ -1187,6 +1205,11 @@
    "first_seen": 1790872391,
    "name": "tomm72",
    "score": 241692
+  },
+  "67659175": {
+   "first_seen": 1791286369,
+   "name": "BulateKing",
+   "score": 334313
   },
   "677449": {
    "first_seen": 1790849570,
