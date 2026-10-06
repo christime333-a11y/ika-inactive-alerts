@@ -1,17 +1,5 @@
 {
  "players": {
-  "10184159": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Ryan",
-   "score": 648037
-  },
-  "10712741": {
-   "first_seen": 1790849570,
-   "missing_since": 1791011951,
-   "name": "Ayiee-Inc",
-   "score": 778564
-  },
   "10718327": {
    "first_seen": 1791011951,
    "name": "FEYI",
@@ -472,30 +460,6 @@
    "name": "cungcanthi",
    "score": 79122306
   },
-  "186313": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Sheraton",
-   "score": 3833
-  },
-  "186314": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Hungvuong Plaza",
-   "score": 5351
-  },
-  "186315": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "KOI",
-   "score": 15068
-  },
-  "186316": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Lego",
-   "score": 18976
-  },
   "186319": {
    "first_seen": 1790849570,
    "missing_since": 1791148340,
@@ -518,24 +482,6 @@
    "missing_since": 1791148340,
    "name": "Number4",
    "score": 7587
-  },
-  "186336": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Eaglee",
-   "score": 19958
-  },
-  "186355": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Manly",
-   "score": 8665
-  },
-  "186356": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "Mr Bean",
-   "score": 8151
   },
   "186362": {
    "first_seen": 1791148340,
@@ -784,12 +730,6 @@
    "first_seen": 1790849570,
    "name": "P1 Dix xx",
    "score": 7702
-  },
-  "26257596": {
-   "first_seen": 1790849570,
-   "missing_since": 1791010792,
-   "name": "OnePiece",
-   "score": 450285
   },
   "26264107": {
    "first_seen": 1791010792,
