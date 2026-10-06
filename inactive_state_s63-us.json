@@ -32,11 +32,13 @@
   },
   "185016": {
    "first_seen": 1791086135,
+   "missing_since": 1791282910,
    "name": "TheseusGSSW2-IV",
    "score": 21140247
   },
   "185042": {
    "first_seen": 1791217216,
+   "missing_since": 1791282910,
    "name": "Daniele",
    "score": 243890
   },
@@ -773,6 +775,7 @@
   },
   "41347762": {
    "first_seen": 1790849570,
+   "missing_since": 1791282910,
    "name": "VUA DONATOR962",
    "score": 5976
   },
@@ -1149,6 +1152,11 @@
    "first_seen": 1790849570,
    "name": "By11s 6C",
    "score": 78637
+  },
+  "71397661": {
+   "first_seen": 1791282910,
+   "name": "Piano91",
+   "score": 61
   },
   "72488377": {
    "first_seen": 1791008780,
