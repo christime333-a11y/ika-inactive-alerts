@@ -558,6 +558,7 @@
   },
   "186446": {
    "first_seen": 1791215410,
+   "missing_since": 1791285457,
    "name": "Miltiades",
    "score": 392443
   },
@@ -573,6 +574,7 @@
   },
   "186630": {
    "first_seen": 1791217216,
+   "missing_since": 1791285457,
    "name": "Papaya",
    "score": 25508330
   },
@@ -859,11 +861,13 @@
   },
   "43456781": {
    "first_seen": 1790849570,
+   "missing_since": 1791285457,
    "name": "BoyBawang",
    "score": 56766
   },
   "43459006": {
    "first_seen": 1790849570,
+   "missing_since": 1791285457,
    "name": "Dyanaypa",
    "score": 56372
   },
@@ -1193,6 +1197,11 @@
    "first_seen": 1790849570,
    "name": "WarrenBuffet",
    "score": 1871731
+  },
+  "684292": {
+   "first_seen": 1791285457,
+   "name": "Z3R0",
+   "score": 15285159
   },
   "69247669": {
    "first_seen": 1791086135,
