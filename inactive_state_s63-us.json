@@ -246,16 +246,19 @@
   },
   "185795": {
    "first_seen": 1791284452,
+   "missing_since": 1791507471,
    "name": "Ca Map",
    "score": 22684
   },
   "185796": {
    "first_seen": 1791284452,
+   "missing_since": 1791507471,
    "name": "Ca Kiem",
    "score": 51999
   },
   "185797": {
    "first_seen": 1791283831,
+   "missing_since": 1791507471,
    "name": "Ca Kinh",
    "score": 32526
   },
@@ -945,11 +948,13 @@
   },
   "59131560": {
    "first_seen": 1791283831,
+   "missing_since": 1791507471,
    "name": "LapLo02",
    "score": 695
   },
   "59131561": {
    "first_seen": 1791283831,
+   "missing_since": 1791507471,
    "name": "LapLo03",
    "score": 860
   },
