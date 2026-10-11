@@ -193,6 +193,7 @@
   },
   "185619": {
    "first_seen": 1791352792,
+   "missing_since": 1791694857,
    "name": "Fresnel",
    "score": 2620621
   },
@@ -1181,6 +1182,7 @@
   },
   "71948494": {
    "first_seen": 1791352792,
+   "missing_since": 1791694857,
    "name": "arf1",
    "score": 62
   },
