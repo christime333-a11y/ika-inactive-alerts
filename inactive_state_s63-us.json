@@ -510,6 +510,7 @@
   },
   "186529": {
    "first_seen": 1791513206,
+   "missing_since": 1791698302,
    "name": "KevinSama",
    "score": 41079799
   },
@@ -533,6 +534,11 @@
    "first_seen": 1791287276,
    "name": "Winnie The Pooh",
    "score": 46084
+  },
+  "186672": {
+   "first_seen": 1791698302,
+   "name": "Shadow694",
+   "score": 3452985
   },
   "186814": {
    "first_seen": 1790939901,
@@ -924,6 +930,7 @@
   },
   "52332754": {
    "first_seen": 1790849570,
+   "missing_since": 1791698302,
    "name": "Lady Vashj",
    "score": 26198
   },
