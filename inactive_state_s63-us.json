@@ -311,21 +311,25 @@
   },
   "186095": {
    "first_seen": 1791515966,
+   "missing_since": 1791696779,
    "name": "ATLANTAS5",
    "score": 31466
   },
   "186096": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS7",
    "score": 14493
   },
   "186098": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS8",
    "score": 57014
   },
   "186099": {
    "first_seen": 1791512263,
+   "missing_since": 1791696779,
    "name": "ATLANTAS10",
    "score": 20135
   },
@@ -356,31 +360,37 @@
   },
   "186139": {
    "first_seen": 1791512263,
+   "missing_since": 1791696779,
    "name": "TRIPOLH5",
    "score": 18998
   },
   "186141": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS9",
    "score": 27795
   },
   "186142": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS 11",
    "score": 40350
   },
   "186144": {
    "first_seen": 1791512263,
+   "missing_since": 1791696779,
    "name": "ATLANTAS1",
    "score": 21203
   },
   "186145": {
    "first_seen": 1791511218,
+   "missing_since": 1791696779,
    "name": "ATLANTAS3",
    "score": 37543
   },
   "186146": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS4",
    "score": 22641
   },
@@ -391,6 +401,7 @@
   },
   "186152": {
    "first_seen": 1791512263,
+   "missing_since": 1791696779,
    "name": "TRIPOLH6",
    "score": 63722
   },
@@ -416,11 +427,13 @@
   },
   "186174": {
    "first_seen": 1791514107,
+   "missing_since": 1791696779,
    "name": "ATLANTAS2",
    "score": 28081
   },
   "186245": {
    "first_seen": 1790849570,
+   "missing_since": 1791696779,
    "name": "NORMAL",
    "score": 1065299
   },
@@ -668,6 +681,7 @@
   },
   "20022360": {
    "first_seen": 1790849570,
+   "missing_since": 1791696779,
    "name": "USJ-R",
    "score": 5657
   },
@@ -1092,6 +1106,7 @@
   },
   "63365737": {
    "first_seen": 1791511218,
+   "missing_since": 1791696779,
    "name": "MikeySoGwapo",
    "score": 1751
   },
