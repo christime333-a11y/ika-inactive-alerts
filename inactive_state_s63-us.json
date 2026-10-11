@@ -18,6 +18,7 @@
   },
   "1154862": {
    "first_seen": 1790849570,
+   "missing_since": 1791697650,
    "name": "IPMAN-4",
    "score": 17152
   },
@@ -301,6 +302,7 @@
   },
   "186050": {
    "first_seen": 1790849570,
+   "missing_since": 1791697650,
    "name": "SSJ Goku556",
    "score": 11157980
   },
@@ -454,16 +456,19 @@
   },
   "186323": {
    "first_seen": 1790849570,
+   "missing_since": 1791697650,
    "name": "Kobe",
    "score": 13795272
   },
   "186347": {
    "first_seen": 1791514107,
+   "missing_since": 1791697650,
    "name": "Gotenks",
    "score": 9162340
   },
   "186362": {
    "first_seen": 1791148340,
+   "missing_since": 1791697650,
    "name": "Li Tam Hoan",
    "score": 13033690
   },
