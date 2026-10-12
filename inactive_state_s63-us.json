@@ -12,6 +12,7 @@
   },
   "1149818": {
    "first_seen": 1790849570,
+   "missing_since": 1791838876,
    "name": "Vm2",
    "score": 8940
   },
@@ -74,11 +75,13 @@
   },
   "185234": {
    "first_seen": 1790849570,
+   "missing_since": 1791838876,
    "name": "Anduril",
    "score": 711517
   },
   "185238": {
    "first_seen": 1791693334,
+   "missing_since": 1791838876,
    "name": "Emperor King",
    "score": 21498463
   },
@@ -619,11 +622,13 @@
   },
   "197899": {
    "first_seen": 1791701602,
+   "missing_since": 1791838876,
    "name": "VietCong",
    "score": 8503
   },
   "197901": {
    "first_seen": 1791701602,
+   "missing_since": 1791838876,
    "name": "SubZero85",
    "score": 17859
   },
@@ -731,6 +736,7 @@
   },
   "37713699": {
    "first_seen": 1790849570,
+   "missing_since": 1791838876,
    "name": "Pauopolis",
    "score": 608
   },
@@ -1130,6 +1136,11 @@
    "name": "Zhen zhu",
    "score": 19800
   },
+  "69789246": {
+   "first_seen": 1791838876,
+   "name": "Wop - Wop",
+   "score": 2239
+  },
   "69791549": {
    "first_seen": 1791086135,
    "name": "alexdftr telo85",
@@ -1148,6 +1159,7 @@
   },
   "71398257": {
    "first_seen": 1791701602,
+   "missing_since": 1791838876,
    "name": "Starlight2567",
    "score": 238809
   },
@@ -1171,6 +1183,11 @@
    "first_seen": 1791508804,
    "name": "thyunfertel3000",
    "score": 8647260
+  },
+  "73551353": {
+   "first_seen": 1791838876,
+   "name": "Theseus-0958154",
+   "score": 128
   },
   "74096744": {
    "first_seen": 1791701602,
@@ -1201,6 +1218,11 @@
    "first_seen": 1791701602,
    "name": "Ipiland",
    "score": 45488
+  },
+  "77865053": {
+   "first_seen": 1791838876,
+   "name": "Odysseus-7943",
+   "score": 167
   }
  },
  "seeded": true
