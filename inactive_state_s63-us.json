@@ -1,5 +1,4 @@
 {
- "failing_since": 1791769315,
  "players": {
   "10716879": {
    "first_seen": 1791517036,
@@ -269,24 +268,6 @@
    "name": "Motel",
    "score": 18654
   },
-  "186025": {
-   "first_seen": 1791284452,
-   "missing_since": 1791509871,
-   "name": "Ca Thu",
-   "score": 42141
-  },
-  "186026": {
-   "first_seen": 1791284452,
-   "missing_since": 1791509871,
-   "name": "Ca Ngu",
-   "score": 33333
-  },
-  "186027": {
-   "first_seen": 1791284452,
-   "missing_since": 1791509871,
-   "name": "Ca Heo",
-   "score": 32654
-  },
   "186050": {
    "first_seen": 1790849570,
    "missing_since": 1791697650,
@@ -463,12 +444,6 @@
    "first_seen": 1791010792,
    "name": "Prophet",
    "score": 5484403
-  },
-  "186382": {
-   "first_seen": 1791354196,
-   "missing_since": 1791511218,
-   "name": "0 0 0 0 0 0 0 0",
-   "score": 3276698
   },
   "186398": {
    "first_seen": 1790872391,
