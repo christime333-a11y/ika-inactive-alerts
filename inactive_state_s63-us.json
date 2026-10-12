@@ -237,6 +237,7 @@
   },
   "185674": {
    "first_seen": 1791287276,
+   "missing_since": 1791841760,
    "name": "GoldDigger",
    "score": 9666785
   },
@@ -608,11 +609,13 @@
   },
   "187002": {
    "first_seen": 1791699788,
+   "missing_since": 1791841760,
    "name": "Fr4ck3r",
    "score": 7268940
   },
   "187005": {
    "first_seen": 1791699788,
+   "missing_since": 1791841760,
    "name": "Fallen Angel",
    "score": 2171622
   },
@@ -720,6 +723,11 @@
    "name": "Xoa2Bm2533630",
    "score": 72527
   },
+  "219907": {
+   "first_seen": 1791841760,
+   "name": "Atlas-0231 d",
+   "score": 3297
+  },
   "231819": {
    "first_seen": 1790849570,
    "name": "Reformed",
@@ -773,6 +781,7 @@
   },
   "28342603": {
    "first_seen": 1791515966,
+   "missing_since": 1791841760,
    "name": "Thang2Lua",
    "score": 349764
   },
@@ -783,11 +792,13 @@
   },
   "29935026": {
    "first_seen": 1791515966,
+   "missing_since": 1791841760,
    "name": "Chau5Lun",
    "score": 36366
   },
   "29935027": {
    "first_seen": 1791515966,
+   "missing_since": 1791841760,
    "name": "Em6Cao",
    "score": 39801
   },
@@ -953,6 +964,11 @@
    "missing_since": 1791698302,
    "name": "Lady Vashj",
    "score": 26198
+  },
+  "52353163": {
+   "first_seen": 1791841760,
+   "name": "Minerval ahihi",
+   "score": 158
   },
   "53351711": {
    "first_seen": 1790849570,
