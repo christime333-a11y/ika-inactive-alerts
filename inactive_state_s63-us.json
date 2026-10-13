@@ -78,6 +78,11 @@
    "name": "ThesSWGS2_IVAsp",
    "score": 39474461
   },
+  "185192": {
+   "first_seen": 1791914482,
+   "name": "spattavn",
+   "score": 36184873
+  },
   "185212": {
    "first_seen": 1791008780,
    "name": "Profit",
@@ -700,6 +705,7 @@
   },
   "187123": {
    "first_seen": 1791518001,
+   "missing_since": 1791914482,
    "name": "Isuzuy_6-",
    "score": 5801
   },
@@ -720,11 +726,13 @@
   },
   "187134": {
    "first_seen": 1790849570,
+   "missing_since": 1791914482,
    "name": "Miuko5-0",
    "score": 2813
   },
   "187135": {
    "first_seen": 1791517036,
+   "missing_since": 1791914482,
    "name": "An_7",
    "score": 9928
   },
@@ -732,6 +740,11 @@
    "first_seen": 1790849570,
    "name": "Asif",
    "score": 176395
+  },
+  "187306": {
+   "first_seen": 1791914482,
+   "name": "-Mizukage-",
+   "score": 16202609
   },
   "187332": {
    "first_seen": 1790873897,
@@ -748,11 +761,26 @@
    "name": "Con Bo",
    "score": 1270499
   },
+  "187475": {
+   "first_seen": 1791914482,
+   "name": "KinSlayer",
+   "score": 16847287
+  },
   "187602": {
    "first_seen": 1791356004,
    "missing_since": 1791701602,
    "name": "SprayPaint",
    "score": 9132
+  },
+  "187628": {
+   "first_seen": 1791914482,
+   "name": "WarDog",
+   "score": 2128857
+  },
+  "187713": {
+   "first_seen": 1791914482,
+   "name": "Mayor Odyseuss",
+   "score": 894935
   },
   "197899": {
    "first_seen": 1791701602,
@@ -909,16 +937,36 @@
    "name": "VUA DONATOR962",
    "score": 5976
   },
+  "41376104": {
+   "first_seen": 1791914482,
+   "name": "Hollysoul",
+   "score": 17742345
+  },
   "4176305": {
    "first_seen": 1790849570,
    "missing_since": 1791839849,
    "name": "Mason",
    "score": 591846
   },
+  "41873510": {
+   "first_seen": 1791914482,
+   "name": "KitKat425",
+   "score": 4464
+  },
   "41874578": {
    "first_seen": 1791283831,
    "name": "Saksi",
    "score": 936
+  },
+  "41880456": {
+   "first_seen": 1791914482,
+   "name": "R2D2980",
+   "score": 13893
+  },
+  "41880457": {
+   "first_seen": 1791914482,
+   "name": "stp285",
+   "score": 2022
   },
   "44508831": {
    "first_seen": 1791352792,
@@ -1016,6 +1064,11 @@
    "first_seen": 1790849570,
    "name": "Taka",
    "score": 7805607
+  },
+  "49777827": {
+   "first_seen": 1791914482,
+   "name": "Torjikan-PH",
+   "score": 92136
   },
   "50310899": {
    "first_seen": 1790849570,
@@ -1225,6 +1278,7 @@
   },
   "62829132": {
    "first_seen": 1791842402,
+   "missing_since": 1791914482,
    "name": "Aech",
    "score": 165735
   },
@@ -1235,6 +1289,7 @@
   },
   "62858717": {
    "first_seen": 1791842402,
+   "missing_since": 1791914482,
    "name": "Sho",
    "score": 240391
   },
@@ -1261,11 +1316,13 @@
   },
   "67131466": {
    "first_seen": 1790849570,
+   "missing_since": 1791914482,
    "name": "Hegemon-4798",
    "score": 22801
   },
   "67131467": {
    "first_seen": 1790849570,
+   "missing_since": 1791914482,
    "name": "Adonis-2840",
    "score": 19293
   },
@@ -1416,6 +1473,11 @@
    "first_seen": 1791911947,
    "name": "damielix",
    "score": 899576
+  },
+  "76239299": {
+   "first_seen": 1791914482,
+   "name": "TZOULIAN5337229",
+   "score": 1904455
   },
   "77865053": {
    "first_seen": 1791838876,
