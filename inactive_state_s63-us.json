@@ -133,6 +133,7 @@
   },
   "185367": {
    "first_seen": 1791842402,
+   "missing_since": 1791910349,
    "name": "- kampel -",
    "score": 17316180
   },
@@ -189,6 +190,7 @@
   },
   "185464": {
    "first_seen": 1791699788,
+   "missing_since": 1791910349,
    "name": "chz",
    "score": 58368
   },
@@ -200,6 +202,7 @@
   },
   "185510": {
    "first_seen": 1791694240,
+   "missing_since": 1791910349,
    "name": "Xplow",
    "score": 362485
   },
@@ -1002,6 +1005,7 @@
   },
   "54938448": {
    "first_seen": 1790849570,
+   "missing_since": 1791910349,
    "name": "shello247",
    "score": 41148
   },
@@ -1062,6 +1066,7 @@
   },
   "57041244": {
    "first_seen": 1791148340,
+   "missing_since": 1791910349,
    "name": "hoangvan70",
    "score": 59570858
   },
