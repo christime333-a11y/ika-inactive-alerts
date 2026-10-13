@@ -245,6 +245,7 @@
   },
   "185625": {
    "first_seen": 1791839849,
+   "missing_since": 1791911947,
    "name": "TugBoat996",
    "score": 1711425
   },
@@ -256,6 +257,7 @@
   },
   "185758": {
    "first_seen": 1791839849,
+   "missing_since": 1791911947,
    "name": "Atom50",
    "score": 4019534
   },
@@ -289,10 +291,50 @@
    "name": "Fuenf",
    "score": 3139
   },
+  "185792": {
+   "first_seen": 1791911947,
+   "name": "Ret_VN",
+   "score": 16345
+  },
+  "185793": {
+   "first_seen": 1791911947,
+   "name": "Ruoi_VN",
+   "score": 63510
+  },
+  "185794": {
+   "first_seen": 1791911947,
+   "name": "Gian_VN",
+   "score": 63169
+  },
   "185846": {
    "first_seen": 1790849570,
    "name": "Donate-86AFK",
    "score": 39574
+  },
+  "185910": {
+   "first_seen": 1791911947,
+   "name": "Muoi_VN",
+   "score": 69419
+  },
+  "185911": {
+   "first_seen": 1791911947,
+   "name": "Ran_VN",
+   "score": 161501
+  },
+  "185912": {
+   "first_seen": 1791911947,
+   "name": "Bochet_VN",
+   "score": 154780
+  },
+  "185913": {
+   "first_seen": 1791911947,
+   "name": "ThoNe",
+   "score": 94354
+  },
+  "185914": {
+   "first_seen": 1791911947,
+   "name": "Ga-Tre",
+   "score": 122928
   },
   "185934": {
    "first_seen": 1791839849,
@@ -853,6 +895,11 @@
    "name": "Roαrus",
    "score": 19299438
   },
+  "41347762": {
+   "first_seen": 1791911947,
+   "name": "VUA DONATOR962",
+   "score": 5976
+  },
   "4176305": {
    "first_seen": 1790849570,
    "missing_since": 1791839849,
@@ -931,6 +978,7 @@
   },
   "45561256": {
    "first_seen": 1791839849,
+   "missing_since": 1791911947,
    "name": "LittleWarrior",
    "score": 5485255
   },
@@ -1066,7 +1114,6 @@
   },
   "57041244": {
    "first_seen": 1791148340,
-   "missing_since": 1791910349,
    "name": "hoangvan70",
    "score": 59570858
   },
@@ -1355,6 +1402,11 @@
    "first_seen": 1791701602,
    "name": "Ipiland",
    "score": 45488
+  },
+  "76238131": {
+   "first_seen": 1791911947,
+   "name": "damielix",
+   "score": 899576
   },
   "77865053": {
    "first_seen": 1791838876,
