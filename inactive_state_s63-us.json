@@ -281,6 +281,7 @@
   },
   "185934": {
    "first_seen": 1791839849,
+   "missing_since": 1791980055,
    "name": "BuilderGuy",
    "score": 8336905
   },
@@ -296,6 +297,7 @@
   },
   "186003": {
    "first_seen": 1790849570,
+   "missing_since": 1791980055,
    "name": "osrsandchill",
    "score": 8400922
   },
@@ -367,6 +369,7 @@
   },
   "186299": {
    "first_seen": 1790849570,
+   "missing_since": 1791980055,
    "name": "cungcanthi",
    "score": 79122306
   },
@@ -408,6 +411,7 @@
   },
   "186572": {
    "first_seen": 1791913053,
+   "missing_since": 1791980055,
    "name": "Peleus-29168212",
    "score": 1838057
   },
@@ -732,11 +736,13 @@
   },
   "41880456": {
    "first_seen": 1791914482,
+   "missing_since": 1791980055,
    "name": "R2D2980",
    "score": 13893
   },
   "41880457": {
    "first_seen": 1791914482,
+   "missing_since": 1791980055,
    "name": "stp285",
    "score": 2022
   },
