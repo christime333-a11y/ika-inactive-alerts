@@ -26,6 +26,11 @@
    "name": "KangDC",
    "score": 149151
   },
+  "184945": {
+   "first_seen": 1791978550,
+   "name": "BLACK ADMIRAL",
+   "score": 1658330
+  },
   "184961": {
    "first_seen": 1791352217,
    "name": "Con man",
@@ -65,6 +70,11 @@
    "first_seen": 1791086135,
    "name": "ThesSWGS2_IVAsp",
    "score": 39474461
+  },
+  "185186": {
+   "first_seen": 1791978550,
+   "name": "DIO89",
+   "score": 255001
   },
   "185192": {
    "first_seen": 1791914482,
@@ -694,6 +704,7 @@
   },
   "41347762": {
    "first_seen": 1791911947,
+   "missing_since": 1791978550,
    "name": "VUA DONATOR962",
    "score": 5976
   },
@@ -710,6 +721,7 @@
   },
   "41873510": {
    "first_seen": 1791914482,
+   "missing_since": 1791978550,
    "name": "KitKat425",
    "score": 4464
   },
@@ -1199,6 +1211,7 @@
   },
   "77865053": {
    "first_seen": 1791838876,
+   "missing_since": 1791978550,
    "name": "Odysseus-7943",
    "score": 167
   }
